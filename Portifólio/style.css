@@ -69,5 +69,9 @@ header .btn-contato button:hover {
     box-shadow: 0px 0px 8px #08ff0868;
 }
 
+/* Termino da estilização do header */
 
+main {
+    background-color: aliceblue;
+}
 
