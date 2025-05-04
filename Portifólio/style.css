@@ -73,5 +73,7 @@ header .btn-contato button:hover {
 
 main {
     background-color: aliceblue;
+    color: black;
+    display: flex;
 }
 
